@@ -1,5 +1,5 @@
 # Gaussian Discriminant Analysis
-Implementations of a GDA model (LDA, QDA) for MNIST and Spam email classification
+Implementations of a GDA model (LDA, QDA) for MNIST and Spam email classification\
 Author: Michael Eugene Ng (SID: 3037857201)
 
 This repository contains 2 files:
